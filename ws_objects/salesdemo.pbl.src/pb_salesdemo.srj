@@ -1,6 +1,6 @@
 ﻿$PBExportHeader$pb_salesdemo.srj
 $PBExportComments$Generated Application Executable Project
-EXE:salesdemo.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 21.0.0.1150
+EXE:salesdemo2.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 21.0.0.1150
 CMP:0,0,0,2,0,0,1
 COM:Appeon
 DES:Appeon Product File
